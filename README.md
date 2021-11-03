@@ -1,5 +1,5 @@
-# Django3_by-example
-Proyecto realizado a partir del libro Django 3 By Example
+# Django3 By Example
+Proyecto realizado a partir del libro Django 3 By Example.
 
 Contenido del proyecto:\
 -Creacion de un blog.\
